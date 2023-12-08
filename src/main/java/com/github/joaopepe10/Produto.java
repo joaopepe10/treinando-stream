@@ -43,18 +43,6 @@ public class Produto {
     }
 
     @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Produto produto)) return false;
-        return getId() == produto.getId() && getPosicao() == produto.getPosicao() && Objects.equals(getDescricao(), produto.getDescricao());
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(getId());
-    }
-
-    @Override
     public String toString() {
         return "\nProduto{" +
                 "\nid=" + id +
