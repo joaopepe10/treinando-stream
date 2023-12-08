@@ -1,7 +1,4 @@
-package io.github.joaopepe10;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.github.joaopepe10;
 
 // F5 COPIA UMA CLASSE
 public class Main {

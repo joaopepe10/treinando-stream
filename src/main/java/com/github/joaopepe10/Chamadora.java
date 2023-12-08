@@ -1,9 +1,8 @@
-package io.github.joaopepe10;
+package com.github.joaopepe10;
 
 
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.List;
 
 public class Chamadora {
     public static void main(String[] args) {

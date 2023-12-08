@@ -1,6 +1,5 @@
-package io.github.joaopepe10;
+package com.github.joaopepe10;
 
-import java.math.BigDecimal;
 import java.util.Objects;
 
 public class Produto {

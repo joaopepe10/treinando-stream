@@ -1,4 +1,4 @@
-package io.github.joaopepe10;
+package com.github.joaopepe10;
 
 import java.util.Arrays;
 import java.util.List;
